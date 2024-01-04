@@ -1,0 +1,102 @@
+[
+  {
+    "stock": "TTMI",
+    "openPrice": 15.96,
+    "price": 16.26186817024905
+  },
+  {
+    "stock": "OEC",
+    "openPrice": 18.67,
+    "price": 19.09480029848877
+  },
+  {
+    "stock": "USDU",
+    "openPrice": 25.92,
+    "price": 26.418703355102366
+  },
+  {
+    "stock": "BWXT",
+    "openPrice": 58.15,
+    "price": 58.32221443271985
+  },
+  {
+    "stock": "WRB",
+    "openPrice": 74.29,
+    "price": 74.62787716612617
+  },
+  {
+    "stock": "WIW",
+    "openPrice": 9.38,
+    "price": 10.36703176755437
+  },
+  {
+    "stock": "MMIT",
+    "openPrice": 24.44,
+    "price": 24.819695201315557
+  },
+  {
+    "stock": "MTG",
+    "openPrice": 12.78,
+    "price": 12.804962790269512
+  },
+  {
+    "stock": "ELVT",
+    "openPrice": 1.78,
+    "price": 1.8398623245070769
+  },
+  {
+    "stock": "ASG",
+    "openPrice": 5.08,
+    "price": 5.83996009554795
+  },
+  {
+    "stock": "IDOG",
+    "openPrice": 26.68,
+    "price": 26.9362050711192
+  },
+  {
+    "stock": "ESNT",
+    "openPrice": 38.67,
+    "price": 39.44420553875514
+  },
+  {
+    "stock": "DCF",
+    "openPrice": 7.3,
+    "price": 8.289780709612456
+  },
+  {
+    "stock": "KORU",
+    "openPrice": 9.49,
+    "price": 9.981342617113729
+  },
+  {
+    "stock": "ERX",
+    "openPrice": 68.57,
+    "price": 69.14605119042392
+  },
+  {
+    "stock": "JEF",
+    "openPrice": 37.23,
+    "price": 37.98729529741859
+  },
+  {
+    "stock": "GLP",
+    "openPrice": 32.06,
+    "price": 32.48128106157805
+  },
+  {
+    "stock": "KNSW",
+    "openPrice": 10.18,
+    "price": 10.842370335260405
+  },
+  {
+    "stock": "FLGR",
+    "openPrice": 20.79,
+    "price": 21.36202283401907
+  },
+  {
+    "stock": "BLDG",
+    "openPrice": 26.53,
+    "price": 26.984145186659205
+  }
+]
